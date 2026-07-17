@@ -1,0 +1,112 @@
+====================================================
+            PYTHON PROGRAMMING
+              CHAPTER 1 OUTLINE
+====================================================
+
+Chapter Name:
+Introduction to Python Programming
+
+Topics Covered:
+
+1. Introduction to Python
+   • What is Python?
+   • Features of Python
+   • Applications of Python
+
+2. Print Statement
+   • print() function
+   • Printing text
+   • Printing numbers
+   • Printing variables
+   • Printing multiple values
+   • Using sep parameter
+   • Using end parameter
+
+3. Escape Characters
+   • \n  - New Line
+   • \t  - Tab Space
+   • \\  - Backslash
+   • \"  - Double Quotes
+   • \'  - Single Quote
+   • \v  - Vertical Tab
+
+4. Variables
+   • What is a Variable?
+   • Variable Declaration
+   • Variable Initialization
+   • Storing Values
+   • Printing Variables
+
+5. Data Types (Basic Introduction)
+   • Integer (int)
+   • Float (float)
+   • String (str)
+   • Boolean (bool)
+
+6. Operators
+
+   A. Arithmetic Operators
+      • Addition (+)
+      • Subtraction (-)
+      • Multiplication (*)
+      • Division (/)
+      • Modulus (%)
+      • Floor Division (//)
+      • Exponent (**)
+
+   B. Assignment Operators
+      • =
+      • +=
+      • -=
+      • *=
+      • /=
+      • %=
+      • //=
+      • **=
+
+   C. Comparison (Relational) Operators
+      • ==
+      • !=
+      • >
+      • <
+      • >=
+      • <=
+
+   D. Logical Operators
+      • and
+      • or
+      • not
+
+----------------------------------------------------
+Learning Outcomes
+
+After completing this chapter, students will be able to:
+
+✓ Understand Python basics.
+✓ Write and execute simple Python programs.
+✓ Use the print() function effectively.
+✓ Use escape characters in strings.
+✓ Create and use variables.
+✓ Identify basic data types.
+✓ Perform arithmetic operations.
+✓ Use assignment operators.
+✓ Compare values using comparison operators.
+✓ Apply logical operators in expressions.
+
+----------------------------------------------------
+Practice Programs
+
+1. Print "Hello World".
+2. Print your personal information.
+3. Print multiple values using sep.
+4. Print output using end.
+5. Demonstrate all escape characters.
+6. Create and print variables.
+7. Perform all arithmetic operations.
+8. Demonstrate assignment operators.
+9. Compare two numbers.
+10. Demonstrate logical operators.
+
+====================================================
+End of Chapter 1
+====================================================
